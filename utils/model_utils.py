@@ -5,7 +5,6 @@ import joblib
 
 from utils.disease_info import DISEASE_DB
 
-
 PLANT_NAME_MAP = {
     "Apple": "Apple",
     "Blueberry": "Blueberry",
